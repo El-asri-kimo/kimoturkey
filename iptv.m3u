@@ -39,96 +39,400 @@ http://smartestv.vip:2095/ABHVYOP/2387998104/568?checkedby:iptvcat.com
 http://smartestv.vip:2095/ABHVYOP/2387998104/840?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",Bein_Sport_Haber
 http://smartestv.vip:2095/ABHVYOP/2387998104/4619?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Sport",Action Sports TV 4U
+https://broadcast.mytvtogo.net/actionsports4you/actionsports4you/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BEIN SPORT 1 FHD
+http://local.ultrach.com:8080/bekira/bekira/76289?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 1 1080P
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10313?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BEIN SPORTS 1 HD
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10311?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BEIN SPORTS 1 HD
+http://local.ultrach.com:8080/bekira/bekira/76291?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BEIN SPORTS 1 HD
+http://local.ultrach.com:8080/bekira/bekira/78345?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 1 MAX HD
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10319?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 1 PLATINUM X SPORTS HD+ (MAC SAATİ ACIK)
+http://local.ultrach.com:8080/bekira/bekira/121354?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 1 PLATINUM X SPORTS SD (MAC SAATİ ACIK)
+http://local.ultrach.com:8080/bekira/bekira/121356?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 1 PLATINUM X SPORTS ULTIMATE (MAC SAATİ ACIK)
+http://local.ultrach.com:8080/bekira/bekira/121353?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BEIN SPORTS 1 SD
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10310?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 1 UHD
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10312?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",BEIN SPORTS 2 HD
+http://local.ultrach.com:8080/bekira/bekira/76295?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",BEIN SPORTS 2 HD
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10314?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 2 MAX HD
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10320?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 2 UHD
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10315?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 3 (SD/HD)
+http://local.ultrach.com:8080/bekira/bekira/78351?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",BEIN SPORTS 3 FHD
+http://local.ultrach.com:8080/bekira/bekira/76296?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",BEIN SPORTS 3 HD
+http://local.ultrach.com:8080/bekira/bekira/76297?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",BEIN SPORTS 3 HD
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10316?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 3 UHD
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10317?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 4 (SD/HD)
+http://local.ultrach.com:8080/bekira/bekira/78352?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",BEIN SPORTS 4 FHD
+http://local.ultrach.com:8080/bekira/bekira/76298?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",BEIN SPORTS 4 HD
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10318?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",BEIN SPORTS 4 HD
+http://local.ultrach.com:8080/bekira/bekira/76299?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS HABER FHD
+http://local.ultrach.com:8080/bekira/bekira/76304?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS HABER HD
+http://local.ultrach.com:8080/bekira/bekira/76305?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS Haber HD
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10309?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 1 (SD/HD)
+http://local.ultrach.com:8080/bekira/bekira/78353?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="Sport",BEIN SPORTS MAX 1 FHD
+http://local.ultrach.com:8080/bekira/bekira/76300?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="Sport",BEIN SPORTS MAX 1 HD
+http://local.ultrach.com:8080/bekira/bekira/76301?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 2 FHD
+http://local.ultrach.com:8080/bekira/bekira/76302?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 2 HD
+http://local.ultrach.com:8080/bekira/bekira/76303?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORT 2  PREMİUM
+http://local.ultrach.com:8080/bekira/bekira/78349?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein SPORTS 1 Feed 4K 10Mbit
+http://local.ultrach.com:8080/bekira/bekira/116592?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",Bein Sport 1
+http://red.ipfox.org:8080/1234/12345678/2810?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",Bein Sport 2
+http://red.ipfox.org:8080/1234/12345678/2817?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",Bein Sport 3
+http://red.ipfox.org:8080/1234/12345678/2809?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",Bein Sport 4
+http://red.ipfox.org:8080/1234/12345678/2808?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein_Sport_1
+http://smartestv.vip:2095/ABHVYOP/2387998104/568?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein_Sport_2
+http://smartestv.vip:2095/ABHVYOP/2387998104/840?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein_Sport_4
+http://smartestv.vip:2095/ABHVYOP/2387998104/33424?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein_Sport_Haber
+http://smartestv.vip:2095/ABHVYOP/2387998104/4619?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",EUROSPORT 1 RAW
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196844?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",EUROSPORT 2 RAW
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196845?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",EXXEN SPORT 1 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/157112?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",EXXEN SPORT 1 HD+
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/157111?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",EXXEN SPORT 2 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/157114?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",EXXEN SPORT 2 HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/157113?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",EXXEN SPORTS 1 HD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32872?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",EXXEN SPORTS 2 HD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32833?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",EXXEN SPORTS 3 HD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32832?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Euro Sport 1 HD
+http://red.ipfox.org:8080/1234/12345678/2770?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Euro Sport 2 HD
+http://red.ipfox.org:8080/1234/12345678/2772?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="Eurosport.tr" group-title="Sport",Eurosport 1 HD TR
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6879?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="esp2" group-title="Sport",Eurosport 2
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10691?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="Eurosport2.tr" group-title="Sport",Eurosport 2 HD TR
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6878?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Eurosport_1
+http://smartestv.vip:2095/ABHVYOP/2387998104/804?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="FoxSports.it" group-title="Sport",FOX SPORT HD
 http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10326?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",My Sports TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Platinum X Sport 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195416?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Platinum X Sports 2 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195421?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Platinum X Sports 2 HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195420?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Platinum X Sports HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195419?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Platinum X Sports HEVC
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195418?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Platinum X Sports Ultimate
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195417?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",S SPORT 1 FHD
 http://local.ultrach.com:8080/bekira/bekira/76314?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",S SPORT 2 FHD
 http://local.ultrach.com:8080/bekira/bekira/76318?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",S SPORT 2 HD
 http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10329?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",S Sport+1 Mac Saati
-http://local.ultrach.com:8080/bekira/bekira/116517?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",S SPORT 2 UHD
 http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10330?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SSport.tr" group-title="Sport",S SPORT HD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32728?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SSport.tr" group-title="Sport",S SPORT HD
+http://hdlocal.de:8080/Wallas/Wallas/10162?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SSport.tr" group-title="Sport",S SPORT HD
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10328?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",S SPORT RAW
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196856?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",S SPORT2 RAW
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196857?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",S SPORTS TV
+http://hdlocal.de:8080/Wallas/Wallas/10163?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SSport.tr" group-title="Sport",S Sport HD
+http://paspastv.pasiptv.com:25461/afrika/afrika/86013?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="SSport.tr" group-title="Sport",S Sport HD TR
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8729?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",S Sport+1 Mac Saati
+http://local.ultrach.com:8080/bekira/bekira/116517?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",S Sport+1 Mac Saati
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/170686?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",S Sport+2 Mac Saati
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/170687?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",S Sport+2 Mac Saati
 http://local.ultrach.com:8080/bekira/bekira/116518?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",S Sport+3 Mac Saati
 http://local.ultrach.com:8080/bekira/bekira/116519?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",S Sport+3 Mac Saati
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/170688?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",S sport 2 HD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32700?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",S-SPORT
 http://local.ultrach.com:8080/bekira/bekira/76313?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",S-SPORT
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10689?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",S-SPORT 1 FHD
 http://local.ultrach.com:8080/bekira/bekira/76315?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",S-SPORT 1 HD
+http://local.ultrach.com:8080/bekira/bekira/76316?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",S-SPORT 2 FHD
+http://local.ultrach.com:8080/bekira/bekira/76317?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",S-SPORT 2 HD
 http://local.ultrach.com:8080/bekira/bekira/76319?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein_Sport_4
-http://smartestv.vip:2095/ABHVYOP/2387998104/33424?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="ext" group-title="Undefined",EXXEN SPOR 1
-http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10305?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",EXXEN SPOR 2
-http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10306?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",EXXEN SPOR 3
-http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10307?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",SPOR SMART 2 HD+
-http://local.ultrach.com:8080/bekira/bekira/76312?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",SPOR SMART FHD
-http://local.ultrach.com:8080/bekira/bekira/76320?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MoviemaxAction2.tr" group-title="Undefined",BEIN MOVIES ACTION 2 HD
-http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10391?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",BEIN_Movies_Family_HD
-http://smartestv.vip:2095/ABHVYOP/2387998104/33468?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MovieSmartPremium.tr" group-title="Undefined",MOVIESMART PREMIUM HD
-http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10398?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Movies Stars HD TR
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8707?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Moviesmart_Action_HD
-http://smartestv.vip:2095/ABHVYOP/2387998104/33434?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",PRIMA MOVIES
-http://51.210.199.40/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",BEIN H&E HD
-http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10626?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="IZTV.tr" group-title="Undefined",BEIN IZ
-http://local.ultrach.com:8080/bekira/bekira/76030?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="IZTV.tr" group-title="Undefined",BEIN IZ HD
-http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10632?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DizimaxComedy.tr" group-title="Undefined",BEIN SERIES COMEDY HD
-http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10394?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DizimaxDrama.tr" group-title="Undefined",BEIN SERIES DRAMA HD
-http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10395?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DizimaxVice.tr" group-title="Undefined",BEIN SERIES VICE HD
-http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10397?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",BEIN_Box_Office_3
-http://smartestv.vip:2095/ABHVYOP/2387998104/813?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="love-nature-4k" group-title="Undefined",LOVE NATURE 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="LoveNature.nl" group-title="Undefined",LOVE NATURE HD
-http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10629?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="wild-hd" group-title="Undefined",NAT GEO WILD FHD
-http://local.ultrach.com:8080/bekira/bekira/76040?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="wild-hd" group-title="Undefined",NAT GEO WILD HD
-http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10637?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="natgeo_hd" group-title="Undefined",NATIONAL GEOGRAPHIC FHD
-http://local.ultrach.com:8080/bekira/bekira/76037?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",NATURE Waterfalls Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953910932c837b4939735d/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Nature Relaxation HD Grece
-https://live.streams.ovh/YourStreaming/YourStreaming/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ASpor.tr" group-title="Undefined",A SPOR HD
-http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10342?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ASpor.tr" group-title="Undefined",A Spor HD TR
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8726?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",ANİMASYON HD
-http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10402?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",American Horrors
-https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastamericanhorrors/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SARAN SPORT FHD
+http://hdlocal.de:8080/Wallas/Wallas/10015?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SMART SPORT  2 HD
+http://hdlocal.de:8080/Wallas/Wallas/10258?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT SMART 1 HD
+http://hdlocal.de:8080/Wallas/Wallas/10161?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 1
+http://paspastv.pasiptv.com:25461/afrika/afrika/85995?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 1
+http://hdlocal.de:8080/Wallas/Wallas/10042?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 1 FHD
+http://hdlocal.de:8080/Wallas/Wallas/10040?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 1 HD
+http://uniontvs.com:8080/Mohamed/123456/146044?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 1 HD
+http://hdlocal.de:8080/Wallas/Wallas/10041?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 1 M
+http://paspastv.pasiptv.com:25461/afrika/afrika/85997?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 2 FHD
+http://hdlocal.de:8080/Wallas/Wallas/10038?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 2 HD
+http://uniontvs.com:8080/Mohamed/123456/253273?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 2 HD
+http://paspastv.pasiptv.com:25461/afrika/afrika/85999?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 2 HD
+http://uniontvs.com:8080/Mohamed/123456/146043?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 2 HD
+http://paspastv.pasiptv.com:25461/afrika/afrika/86000?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 2 HD
+http://hdlocal.de:8080/Wallas/Wallas/10039?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 3 FHD
+http://hdlocal.de:8080/Wallas/Wallas/10036?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 3 HD
+http://paspastv.pasiptv.com:25461/afrika/afrika/86002?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 3 HD
+http://uniontvs.com:8080/Mohamed/123456/146041?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 3 HD
+http://paspastv.pasiptv.com:25461/afrika/afrika/86001?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 3 HD
+http://hdlocal.de:8080/Wallas/Wallas/10037?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 4 FHD
+http://hdlocal.de:8080/Wallas/Wallas/10034?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 4 HD
+http://paspastv.pasiptv.com:25461/afrika/afrika/86003?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 4 HD
+http://paspastv.pasiptv.com:25461/afrika/afrika/86004?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 4 HD
+http://uniontvs.com:8080/Mohamed/123456/146042?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS 4 HD
+http://hdlocal.de:8080/Wallas/Wallas/10035?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS HABER
+http://hdlocal.de:8080/Wallas/Wallas/10033?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS HABER FHD
+http://hdlocal.de:8080/Wallas/Wallas/10043?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS MAX 1
+http://hdlocal.de:8080/Wallas/Wallas/10032?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS MAX 1 FHD
+http://hdlocal.de:8080/Wallas/Wallas/10031?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS MAX 1 HD
+http://paspastv.pasiptv.com:25461/afrika/afrika/86005?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS MAX 2
+http://hdlocal.de:8080/Wallas/Wallas/10030?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTS MAX 2 FHD
+http://hdlocal.de:8080/Wallas/Wallas/10029?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="Sport",SPORTS TV
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10582?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="Sport",SPORTS TV HD
+http://local.ultrach.com:8080/bekira/bekira/76343?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="Sport",SPORTS TV HD
+https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTSTV HD
+http://local.ultrach.com:8080/bekira/bekira/76322?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SSPORT_2
+http://smartestv.vip:2095/ABHVYOP/2387998104/93640?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SSport+ 1 HD
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10321?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SSport+ 2 HD
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10322?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SSport+ 5 HD
+http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/10325?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sport Haber TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/12836?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sport1-lt" group-title="Sport",Sport TV
+http://red.ipfox.org:8080/1234/12345678/2752?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sports 1 FHD TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/681951?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sports 1 HD TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6908?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sports 1 TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/623692?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sports 1 [Yedek] HD TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13232?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sports 2 HD TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6907?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sports 2 [Yedek] HD TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13231?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sports 3 (Yedek) HD TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8740?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sports 3 HD TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6906?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sports 4 HD TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6905?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sports 4 [Yedek] HD TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13874?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sports Haber HD TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/623058?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sports Max 1 HD TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16006?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sports Max 2 HD TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16005?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="Sport",Sports TV  HD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/33054?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="Sport",Sports TV HD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32946?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="Sport",Sports TV TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8737?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="Sport",Sports TV  TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8668?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Ssport
+http://klasman1.xyz/hls/ss1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",TRT SPORT YILDIZ HD
+https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Tivibu Sport 1 FHD TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8725?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Tivibu Sport 2 FHD TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8724?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Tivibu Sport 3 FHD TR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8723?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",bEIN SPORT 1 HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196260?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",bEIN SPORT 1 SD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196264?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",bEIN SPORTS 1 FHD++
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196259?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",bEIN SPORTS 1 SD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196265?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",bEIN SPORTS 2 HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196266?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",bEIN SPORTS 3 HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196268?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",bEIN SPORTS 4 HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196270?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",bEIN SPORTS HABER HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196277?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",bEIN SPORTS HABER HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196276?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BeINSportsMAX1.es" group-title="Sport",bEIN SPORTS MAX 1 HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196272?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="Sport",bEIN SPORTS MAX 2 HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196274?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",bEiN SPORTS 1 HD /
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196261?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",bEiN SPORTS 2 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196267?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",bEiN SPORTS 3 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196269?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",bEiN SPORTS 4 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196271?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="Sport",bEiN SPORTS MAX 1 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196273?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",bEiN SPORTS MAX 2 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196275?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN SPORT MAX  1 FHD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/44444?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN SPORT MAX  1 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/44442?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN SPORT MAX  2 FHD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/44445?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN SPORT MAX  2 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/44443?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN SPORTS HABER RAW
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/196816?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",beIN Sports 1 FHD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32889?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",beIN Sports 1 HD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32886?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",beIN Sports 2 FHD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32888?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",beIN Sports 2 HD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32885?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",beIN Sports 3 HD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32884?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",beIN Sports 4 FHD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32887?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",beIN Sports 4 HD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32883?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Sport",beIN Sports FHD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32882?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports HABER HD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32879?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports Haber
+http://red.ipfox.org:8080/1234/12345678/2822?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports Haber
+https://livesx.canlitv.center/beinsportshaber.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="Sport",beIN Sports Max 1 FHD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32881?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports Max 2 FHD
+http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/32880?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",beINSPORT 1 FHD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10698?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",beINSPORT 1 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10701?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",beINSPORT 2 FHD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10697?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",beINSPORT 2 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10700?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",beINSPORT 3 FHD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10696?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",beINSPORT 3 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10699?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",beINSPORT 4 FHD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10695?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",beINSPORT 4 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/44446?checkedby:iptvcat.com"
